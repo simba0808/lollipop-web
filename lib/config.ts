@@ -12,7 +12,7 @@ const config = {
   dextools:
     "https://www.dextools.io/app/en/bnb/pair-explorer/0x59aa666edbef6b00a1f8ff4d20cfce177213c566?t=1720033791398",
   coingecko: "#",
-  coinmarketcap: "#",
+  coinmarketcap: "https://coinmarketcap.com/currencies/lollipop-finance/",
 };
 
 export default config;

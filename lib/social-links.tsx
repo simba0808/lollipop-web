@@ -1,4 +1,5 @@
 import CoingeckoLogo from "@/assets/logos/coingecko.webp";
+import CoinmarketcapLogo from "@/assets/logos/coinmarketcap.webp";
 import DexscreenerLogo from "@/assets/logos/dexscreener.webp";
 import DextoolsLogo from "@/assets/logos/dextools.webp";
 import DiscordLogo from "@/assets/logos/discord.webp";
@@ -20,9 +21,9 @@ export const marketLinks = [
     tooltip: "Dextools",
   },
   {
-    href: config.coingecko,
-    image: CoingeckoLogo.src,
-    tooltip: "CoinGecko",
+    href: config.coinmarketcap,
+    image: CoinmarketcapLogo.src,
+    tooltip: "CoinMarketCap",
   },
   {
     href: config.lollipopTokenSwapUrl,
